@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/sergiosimonrf" target="_blank" rel="noopener noreferrer">
+  <a href="https://linkedin.com/in/sergiosimonr" target="_blank" rel="noopener noreferrer">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
       alt="LinkedIn"
